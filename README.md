@@ -1,5 +1,4 @@
 List of my personal writeups for the Hacktober 2020 CTF ( https://blog.cyberhacktics.com/hacktober-2020/ ) .
-Challenge files are not included , as we were kindly requested not to do so from the organisers.
 
 CTF date : 
 
