@@ -6,7 +6,8 @@ Again , we are given a .pcap file to analyse that had loads of packets. Here's s
 
 ![general](https://user-images.githubusercontent.com/73142671/96652004-b295e480-133e-11eb-975d-f0d02123e463.png)
 
-In this scenario , we specifically filter for the **http** protocol , since it's unencrypted by design.
+In this scenario , we specifically filter for the **http** protocol , since it's unencrypted by design , and might 
+give us some useful information.
 Thus, we get the following :
 
 ![http](https://user-images.githubusercontent.com/73142671/96652116-f12b9f00-133e-11eb-8750-9acd358cf8aa.png)
