@@ -12,4 +12,4 @@ and quickly looking through the filters , we get this :
 
 ![2020-10-17_14-20](https://user-images.githubusercontent.com/73142671/96652684-17057380-1340-11eb-941c-87d462027037.png)
 
-flag is : flag{ghosts_everywhere}
+flag is : flag{ghosts_everywhere} 
