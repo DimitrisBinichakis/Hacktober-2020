@@ -1,0 +1,22 @@
+List of my personal writeups for the Hacktober 2020 CTF ( https://blog.cyberhacktics.com/hacktober-2020/ ) .
+Challenge files are not included , as we were kindly requested not to do so from the organisers.
+
+CTF date : 
+
+Oct 16, 2020 @ 9am CDT to Oct 17, 2020 @ 9pm CDT
+
+2020-10-16 @ 14:00 UTC to 2020-10-18 @ 02:00 UTC
+
+Challenge categories : 
+
+    Cryptography
+    Steganography
+    Traffic Analysis
+    Exploitation
+    OSINT
+    Programming
+    SQL
+    
+    Huge thanks to CyberUp && Cyber Hacktics for their time and effort in organising this CTF .
+    
+   ![alt text](https://postimg.cc/XBX26kQV)
