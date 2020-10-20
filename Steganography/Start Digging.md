@@ -35,6 +35,6 @@ Inside that directory , we get 4 new images :
 
   0  B8  C  C4
 
-Viewing B8 with EOG reveals the flag : 
+Viewing B8 with EOG reveals the flag :  
 
 ![flag](https://user-images.githubusercontent.com/73142671/96653403-ac553780-1341-11eb-9f5c-a0121cce67b5.png)
