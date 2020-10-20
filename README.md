@@ -6,7 +6,7 @@ CTF date :
 Oct 16, 2020 @ 9am CDT to Oct 17, 2020 @ 9pm CDT
 
 2020-10-16 @ 14:00 UTC to 2020-10-18 @ 02:00 UTC
-
+    
 Challenge categories : 
 
     Cryptography
@@ -16,7 +16,5 @@ Challenge categories :
     OSINT
     Programming
     SQL
-    
-    Huge thanks to CyberUp && Cyber Hacktics for their time and effort in organising this CTF .
-    
-   ![alt text](https://postimg.cc/XBX26kQV)
+
+Huge thanks to CyberUp && Cyber Hacktics for their time and effort in organising this CTF .
