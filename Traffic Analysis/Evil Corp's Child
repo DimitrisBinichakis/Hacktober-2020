@@ -4,8 +4,7 @@ Challenge prompt :
 
 We were given a pretty big .pcap file to analyse , here is a snippet of some protocols used .
 
-![2020-10-17_18-28](https://user-images.githubusercontent.com/73142671/96650187-13232280-133b-11eb-9833-4d5c4c59572e.png)
-In order to find the executable , using wireshark go to file -> export objects -> http
+![2020-10-17_18-28](https://user-images.githubusercontent.com/73142671/96650187-13232280-133b-11eb-9833-4d5c4c59572e.png)In order to find the executable , using wireshark go to file -> export objects -> http
 Doing so we get this :
 
 Great,now we have a png image to work with.However trying to view it we get this:
