@@ -18,3 +18,4 @@ Challenge categories :
     SQL
 
 Huge thanks to CyberUp && Cyber Hacktics for their time and effort in organising this CTF .
+https://user-images.githubusercontent.com/73142671/96647063-bec97400-1335-11eb-902a-13db2a32f44b.png
