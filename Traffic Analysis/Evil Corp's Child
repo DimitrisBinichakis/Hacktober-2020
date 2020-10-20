@@ -4,7 +4,7 @@ Challenge prompt :
 
 We were given a pretty big .pcap file to analyse , here is a snippet of some protocols used .
 
-![screenshot tesadas](https://user-images.githubusercontent.com/73142671/96649912-a3ad3300-133a-11eb-8a65-3b44ff578b61.png)
+![2020-10-17_18-28](https://user-images.githubusercontent.com/73142671/96650187-13232280-133b-11eb-9833-4d5c4c59572e.png)
 In order to find the executable , using wireshark go to file -> export objects -> http
 Doing so we get this :
 
