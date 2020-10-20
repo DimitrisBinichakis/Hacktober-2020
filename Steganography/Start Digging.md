@@ -28,6 +28,8 @@ We will have to use '--dd' flag/attribute to get the image.
 
   > binwalk --dd '.*' 00000230.jpeg
 
+![binwalk--dd](https://user-images.githubusercontent.com/73142671/96653456-d0187d80-1341-11eb-9423-69ac961bf091.png)
+
 We get a new file , "_00000230.jpg.extracted" created from binwalk .
 Inside that directory , we get 4 new images :
 
