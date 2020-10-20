@@ -3,8 +3,7 @@ Challenge prompt :
 "What is the MD5 hash of the Windows executable file? "
 
 We were given a pretty big .pcap file to analyse , here is a snippet of some protocols used .
-![2020-10-17_18-28](https://user-images.githubusercontent.com/73142671/96650705-fb986980-133b-11eb-862d-8f1cfc71fc41.png)
-In order to find the executable , using wireshark go to file -> export objects -> http
+![2020-10-17_18-28](https://user-images.githubusercontent.com/73142671/96650705-fb986980-133b-11eb-862d-8f1cfc71fc41.png)In order to find the executable , using wireshark go to file -> export objects -> http
 Doing so we get this :
 
 Great,now we have a png image to work with.However trying to view it we get this:
