@@ -7,6 +7,7 @@ We were given a pretty big .pcap file to analyse , here is a snippet of some pro
 In order to find the executable , using wireshark go to file -> export objects -> http
 Doing so we get this :
 ![objects](https://user-images.githubusercontent.com/73142671/96651178-f0920900-133c-11eb-9adc-b57dec3aeb17.png)
+
 Great,now we have a png image to work with.However trying to view it we get this:
 
 ![failedtoopenpng](https://user-images.githubusercontent.com/73142671/96651216-03a4d900-133d-11eb-9096-71623efd5824.png)
