@@ -26,7 +26,7 @@ The picture is actually an .exe file . Lets try to change its suffix to .exe :
 
   >mv picture4.png picture4.exe
 
-Lets run the md5sum to get the flag.
+Lets run the md5sum to get the flag. 
 
   > md5sum picture4.exe 
 
