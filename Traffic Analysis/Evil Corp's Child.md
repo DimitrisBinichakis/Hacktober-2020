@@ -1,4 +1,4 @@
-Challenge prompt :
+###Challenge prompt :
 
 "What is the MD5 hash of the Windows executable file? "
 
