@@ -8,5 +8,5 @@ In order to solve this one , we filter for **DNS** in wireshark.Thus, we get thi
 
 
 ![2020-10-17_18-43](https://user-images.githubusercontent.com/73142671/96652321-57b0bd00-133f-11eb-8b5a-7972ea8ebbef.png)
-
+ 
 From the packets above , we conclude that the flag is : flag{solution.myddns.me}
