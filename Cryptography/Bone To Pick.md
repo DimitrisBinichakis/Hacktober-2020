@@ -8,7 +8,7 @@ We are given a link to a pastebin which contains a single line of a really long 
 ![Screenshot_2020-10-21 _9j_4AAQSkZJRgABAQEAeAB4AAD_4QAiRXhpZgAATU0AKgAAAAgAAQESAAMAAAABAAEAAAAAAAD_2wBD - Pastebin com](https://user-images.githubusercontent.com/73142671/96654484-15d64580-1344-11eb-9c1d-668ffcb712ff.png)
 
 The string goes on for quite a while .
-Looking aroung we find that the given string is an image encoded in base64.
+Looking around we find that the given string is an image encoded in base64.
 
 Repairing the malformed base64 string and converting it to an image with online tools , we get this :
 
